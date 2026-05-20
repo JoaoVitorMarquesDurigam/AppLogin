@@ -115,3 +115,7 @@ C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\refint\AppLogin.dll
 C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\AppLogin.pdb
 C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\AppLogin.genruntimeconfig.cache
 C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\ref\AppLogin.dll
+C:\Users\3MTEC\Desktop\AppLogin\AppLogin\bin\Debug\net10.0\X.PagedList.dll
+C:\Users\3MTEC\Desktop\AppLogin\AppLogin\bin\Debug\net10.0\X.PagedList.Mvc.Core.dll
+C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\AppLogin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\3MTEC\Desktop\AppLogin\AppLogin\obj\Debug\net10.0\AppLogin.sourcelink.json

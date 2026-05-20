@@ -20,3 +20,5 @@ use dbLoginCore;
  Senha VARCHAR(8) NOT NULL,
  Tipo VARCHAR(8) NOT NULL	
  );
+ 
+ /*oi*/
