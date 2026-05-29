@@ -32,5 +32,9 @@ namespace AppLogin.Libraries.Login
                 return null;
             }
         }
+        public void Logout()
+        {
+            _sessao.RemoverTodos();
+        }
     }
 }
